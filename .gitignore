@@ -1,0 +1,7 @@
+.byebug_history
+.DS_store
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+/node_modules
